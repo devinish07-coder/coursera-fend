@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <meta charset="UTF-8">
+ <title>my first page</title>
+ </head>
+ <body>
+ <h1>hello world</h1>
+ <p>Google is a search engine with lots of free website and it has lots of information to share and learn.</p><p>It is the world wide famous and successful project.</p><p>The project established by a Indian CEO and he is very popular person too.</p>
+ <a herf="https://www.google.com">visit google</a>
+ <br>
+ <img src="google.jpg">
+ </body>
+</html>
